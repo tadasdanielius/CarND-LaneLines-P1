@@ -17,7 +17,7 @@ other for right line. This I can detect from the slope (negative or positive)
 Hopefully selected lines do belong to the right or left line.
 Finally I take only points from each line and use [Polynomial
 regression](https://en.wikipedia.org/wiki/Polynomial_regression) to find
-coefficients $$y=a+bx$$
+coefficients **y=a+bx**
 And that is enough to draw the line.
 
 #### Remarks
